@@ -1,0 +1,12 @@
+C:\Users\Hp\source\repos\Materials\Materials\bin\Debug\Materials.exe.config
+C:\Users\Hp\source\repos\Materials\Materials\bin\Debug\Materials.exe
+C:\Users\Hp\source\repos\Materials\Materials\bin\Debug\Materials.pdb
+C:\Users\Hp\source\repos\Materials\Materials\obj\Debug\Materials.Properties.Resources.resources
+C:\Users\Hp\source\repos\Materials\Materials\obj\Debug\Materials.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\Materials\Materials\obj\Debug\Materials.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Materials\Materials\obj\Debug\Materials.exe
+C:\Users\Hp\source\repos\Materials\Materials\obj\Debug\Materials.pdb
+C:\Users\Hp\source\repos\Materials\Materials\obj\Debug\Materials.Form1.resources
+C:\Users\Hp\source\repos\Materials\Materials\obj\Debug\Materials.subjectForm.resources
+C:\Users\Hp\source\repos\Materials\Materials\obj\Debug\Materials.Form2.resources
+C:\Users\Hp\source\repos\Materials\Materials\obj\Debug\Materials.csproj.AssemblyReference.cache
